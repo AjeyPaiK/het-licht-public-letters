@@ -1,0 +1,43 @@
+
+var ftGUID_9200719="62343EC536B57C";
+var ftConfID_9200719="0";
+var ftParams_9200719="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.census2011.co.in%2Fdata%2Fvillage%2F120359-rabupura-uttar-pradesh.html&gdpr=1&gdpr_consent=CQT-dAAQT-dAAEsACBENByFoAP_gAEPgABBoK1ID_C7EbCFCiLp3IKMEMAhHQBBAYsQwAAaBAwAADBIQIAQCgkEYBASAFCACCAAAKCSBAAAgCAAAAUAAIAAVAABEAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEEEAAkAgAAAIASAAAAAAAAACBAAAAAAAAAAAAAAAABAAAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQR2QD-F2I2EKFEXCuQUYIYBCugCAAxYhgAA0CBgAAGCQgQAgFJIIkCAEAIEAAEAAAQEgCAABQABAAAIAAAAAqAACIABgAQCAQQIABAAAAgIAAAAAAEQAAIgEAAAAIIIABABAAAAQAkAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAEABgAAAAAABEAAAAAAAACAQIAAA&us_privacy=${US_PRIVACY}&ft_partnerimpid=ABAjH0jglds4h1YofvZAGCWvtxQp&bundle_id=&site_url=https://www.census2011.co.in/data/village/120359-rabupura-uttar-pradesh.html&pub_id=1&sup_platform=1&cachebuster=737836.829434781";
+var ftKeyword_9200719="";
+var ftCustom_9200719="";
+var ftSection_9200719="";
+var ftSegment_9200719="";
+var ftSegmentList_9200719=[];
+var ftRuleMatch_9200719="0";
+var ftTimestamp_9200719="1751583619";
+var ftGeoC2_9200719="nl";
+var ftGeoState_9200719="nh";
+var ftGeoCity_9200719="amsterdam";
+var ftISP_9200719="ziggo services b.v.";
+var ftSpeed_9200719="broadband";
+var ftConnType_9200719="wifi";
+var ftDMA_9200719="-1";
+var ftLong_9200719="4.82";
+var ftLat_9200719="52.37";
+var ftPostal_9200719="1064 gv";
+var ftTimeZone_9200719="+200";
+var ftMobileCarrier_9200719="";
+var ftImp9200719 = {};
+ftImp9200719.privacy = "y";
+ftImp9200719.guidAge = "159";
+ftImp9200719.impID = "37C2753D-F918-D918-6C90-83D75EE06DE2";
+ftImp9200719.duid = "FT:62343EC536B57C";
+
+ftImp9200719.ft_tpplid = "";
+ftImp9200719.ft_c = {};
+ftImp9200719.gdpr = "1";
+ftImp9200719.gdpr_consent = "CQT-dAAQT-dAAEsACBENByFoAP_gAEPgABBoK1ID_C7EbCFCiLp3IKMEMAhHQBBAYsQwAAaBAwAADBIQIAQCgkEYBASAFCACCAAAKCSBAAAgCAAAAUAAIAAVAABEAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEEEAAkAgAAAIASAAAAAAAAACBAAAAAAAAAAAAAAAABAAAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQR2QD-F2I2EKFEXCuQUYIYBCugCAAxYhgAA0CBgAAGCQgQAgFJIIkCAEAIEAAEAAAQEgCAABQABAAAIAAAAAqAACIABgAQCAQQIABAAAAgIAAAAAAEQAAIgEAAAAIIIABABAAAAQAkAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAEABgAAAAAABEAAAAAAAACAQIAAA";
+ftImp9200719.gdpr_pd = "";
+ftImp9200719.oob_consent = "";
+ftImp9200719.gdprStoredConsent = "";
+ftImp9200719.us_privacy = "!!US_PRIVACY!";
+ftImp9200719.gpc = "";
+
+var ftCreativeId_9200719 = "3801668";
+document.write('<scr'+'ipt src="https://ajs-assets.ftstatic.com/ftUtils.js" id="ftscript_m9200719" name="ftscript_m9200719"></scr'+'ipt>');window.fTChecker=window.fTChecker||function(id){if(!id)return false;id=""+id;if(window.hasOwnProperty("ftUtils")){window["ft"+id]=Object.assign({},window.ftUtils.common);window["ft"+id].getBannerConfig(id)}else(function(id){window.setTimeout(function(){window.fTChecker(id)},50)})(id)};window.fTChecker("9200719");
+
+
